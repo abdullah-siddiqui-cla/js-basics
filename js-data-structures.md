@@ -16,7 +16,7 @@ Loop through elements:
 
 # Exercise 2: Objects
 
-Create an object representing a person with firstName, lastname, age and address (the address has the city, country and postal code):
+Create an object representing a person with firstName, lastName, age and address (the address has the city, country and postal code):
 
 Access properties:
 
